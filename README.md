@@ -1,2 +1,7 @@
 # electron-react
-Created with CodeSandbox
+
+#install the modules
+npm install
+
+#command to run the app
+npm run estart
