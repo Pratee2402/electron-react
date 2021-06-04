@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "electron-react",
   "version": "0.1.0",
   "electron": "^13.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "ebuild": "npm run build"
   },
   "eslintConfig": {
-    "extends": ["react-app", "react-app/jeest"]
+    "extends": ["react-app", "react-app/jest"]
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
